@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard Osman's House of Games Modules", "Richard Osman's House of Games Modules.csproj", "{C0EC40E3-67BB-67B9-98BE-9CCBFF504C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richard Osman's House of Games Modules.Editor", "Richard Osman's House of Games Modules.Editor.csproj", "{CF13B1FB-079A-C30D-3AC4-0FBC10A86A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EC40E3-67BB-67B9-98BE-9CCBFF504C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EC40E3-67BB-67B9-98BE-9CCBFF504C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EC40E3-67BB-67B9-98BE-9CCBFF504C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EC40E3-67BB-67B9-98BE-9CCBFF504C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF13B1FB-079A-C30D-3AC4-0FBC10A86A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF13B1FB-079A-C30D-3AC4-0FBC10A86A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF13B1FB-079A-C30D-3AC4-0FBC10A86A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF13B1FB-079A-C30D-3AC4-0FBC10A86A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
