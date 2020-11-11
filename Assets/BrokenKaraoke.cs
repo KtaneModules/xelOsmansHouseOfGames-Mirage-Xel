@@ -108,7 +108,7 @@ public class BrokenKaraoke : MonoBehaviour {
         yield break;
     }
 #pragma warning disable 414
-    private string TwitchHelpMessage = "Use '!{0} start' to start the karaoke.  Use '!{0} stop' to stop it. use '!{0} sumbit SONGGAME' to submit e.g. '!{0} sumbit ALITTLELESSCONVERSATION";
+    private string TwitchHelpMessage = "Use '!{0} start' to start the karaoke.  Use '!{0} stop' to stop it. use '!{0} sumbit SONGNAME' to submit e.g. '!{0} sumbit ALITTLELESSCONVERSATION";
 #pragma warning restore 414
     IEnumerator ProcessTwitchCommand(string command)
     {
